@@ -5,7 +5,7 @@ https://docs.google.com/document/d/e/2PACX-1vQt5JkAlRV-0VwwTAaGLZkLwp7On3MNHThR4
 
 Narrate76 is a Java program that takes in a raw script for the dialogue/narration of a Minecraft map
 and generates a datapack and resource pack to display subtitles and play sound files for each line of
-dialogue at the mapmakerâ€™s command. The program is intended for use in an adventure-map-style scenario
+dialogue at the mapmaker's command. The program is intended for use in an adventure-map-style scenario
 where the lines of dialogue are in a fixed order and only get displayed/voiced one time each per playthrough.
 
 If you want to borrow the code and make modifications to suit your own purposes, feel free, but it
