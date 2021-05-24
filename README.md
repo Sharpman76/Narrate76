@@ -1,5 +1,4 @@
 # Narrate76
-by Sharpman76
 
 _Disclaimer: I’m a mechanical engineering major, not a programmer, so neither the code nor this repo is likely to be designed in the best way, so fair warning. Be thankful I even know the difference between Java and Javascript lol_
 
